@@ -1,0 +1,1 @@
+.toastBar{height:5px;width:0;opacity:.5;animation:toastBar 2.7s}.toastPosition{animation:toastPosition .5s}@keyframes toastBar{0%{width:100%}to{width:0}}@keyframes toastPosition{0%{transform:rotate(10deg)}70%{transform:rotate(-5deg)}to{transform:rotate(0deg)}}
